@@ -65,3 +65,11 @@ html{
 div a{
     text-decoration: none;
 }
+
+.fyzeimage{
+    max-width: 450px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
