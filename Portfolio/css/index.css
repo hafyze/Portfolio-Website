@@ -95,4 +95,6 @@ div a{
 
 #drummachinePage{
     border: 1px solid black;
+    width: 550px;
+    max-width: fit-content;
 }
