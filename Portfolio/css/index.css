@@ -34,7 +34,8 @@ html{
 }
 
 #projects{
-    width: 85%;
+    width: 100%;
+    max-width: 900px;
     padding: 0;
     margin: auto;
     color: black;
@@ -77,4 +78,17 @@ div a{
     max-width: 450px;
     height: auto;
     text-align: center;
+    border-radius: 3%;
+}
+
+@media screen and (max-width: 600px) {
+    #about{
+        width: 100%;
+        max-width: 300px;
+        margin: auto;
+        padding: 2px 10px;
+        border: 1px solid white;
+        border-radius: 8px;
+        background-color: #344353;
+    } 
 }
