@@ -58,6 +58,11 @@ html{
     float: right;
     text-decoration: none;
 }
+.navbar li a:hover{
+    color: white;
+    background-color: #344353;
+    transition-duration: 0.35s;
+}
 
 .project{
     margin: 5px 15px;
