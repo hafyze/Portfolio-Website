@@ -55,11 +55,13 @@ html{
     display: inline;
 }
 .navbar li a{
+    margin: 0 5px;
     float: right;
     text-decoration: none;
 }
 .navbar li a:hover{
     color: white;
+    border-radius: 6px;
     background-color: #344353;
     transition-duration: 0.35s;
 }
