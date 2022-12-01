@@ -23,6 +23,10 @@ html{
     border-radius: 8px;
     background-color: #344353;
 }
+#about h3{
+    margin: 0;
+    text-align: center;
+}
 
 #projects{
     width: 85%;
@@ -30,6 +34,8 @@ html{
     margin: auto;
     color: black;
     background-color: white;
+
+    border-radius: 7px;
 }
 
 .navbar{
@@ -45,4 +51,8 @@ html{
 .navbar li a{
     float: right;
     text-decoration: none;
+}
+
+#project1{
+    margin: 5px 15px;
 }
