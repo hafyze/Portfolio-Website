@@ -66,7 +66,11 @@ div a{
     text-decoration: none;
 }
 
-.fyzeimage{
+.title_project{
+    font-size: 1.85rem;
+}
+
+.project_image{
     margin: auto;
     display: block;
     width: 100%;
