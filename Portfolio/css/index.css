@@ -67,9 +67,10 @@ div a{
 }
 
 .fyzeimage{
-    max-width: 450px;
+    margin: auto;
+    display: block;
     width: 100%;
+    max-width: 450px;
     height: auto;
     text-align: center;
-    margin: auto;
 }
