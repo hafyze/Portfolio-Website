@@ -11,6 +11,11 @@ html{
     margin: 15px 0px;
     text-align: center;
 }
+
+#name{
+    letter-spacing: 1.25px;
+}
+
 #titleDescr{
     font-size: 1.5rem;
 }
@@ -55,4 +60,8 @@ html{
 
 #project1{
     margin: 5px 15px;
+}
+
+div a{
+    text-decoration: none;
 }
