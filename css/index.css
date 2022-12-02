@@ -51,10 +51,14 @@ html{
 .navDescr{
     font-size: 1.65rem;
 }
+.navbar ul{
+    padding: 0;
+}
 .navbar li{
     display: inline;
+    padding: 0 5px;
 }
-.navbar li a{
+.navbar li .link{
     margin: 0 5px;
     float: right;
     text-decoration: none;
