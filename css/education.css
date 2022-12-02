@@ -1,0 +1,10 @@
+#education{
+    width: 100%;
+    max-width: 900px;
+    padding: 0;
+    margin: auto;
+    color: black;
+    background-color: white;
+
+    border-radius: 7px;
+}
