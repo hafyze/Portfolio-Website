@@ -130,3 +130,9 @@ div a{
     width: 550px;
     max-width: fit-content;
 }
+
+.linkButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
