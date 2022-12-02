@@ -44,12 +44,32 @@ html{
     border-radius: 7px;
 }
 
+#projectTitle{
+    border: 1.5px solid black;
+    border-radius: 7px;
+    background-color: rgb(79, 243, 107);
+    cursor:context-menu;
+}
+#projectTitle:hover{
+    color:white;
+    border: none;
+    border-radius: 7px;
+    background-color: black;
+    cursor:context-menu;
+    transition-duration: 0.35s;
+}
+
 .navbar{
     margin: 20px;
     padding: 5px;
 }
 .navDescr{
     font-size: 1.65rem;
+}
+.navDescr a{
+    color: black;
+    font-size: 1.65rem;
+    padding: 0 5px;
 }
 .navbar ul{
     padding: 0;
@@ -60,6 +80,7 @@ html{
 }
 .navbar li .link{
     margin: 0 5px;
+    padding: 0 1px;
     float: right;
     text-decoration: none;
 }
