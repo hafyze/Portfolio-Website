@@ -48,7 +48,7 @@ html{
     margin: 20px;
     padding: 5px;
 }
-#projectName{
+.navDescr{
     font-size: 1.65rem;
 }
 .navbar li{
