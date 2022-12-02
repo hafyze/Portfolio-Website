@@ -3,7 +3,7 @@
 html{
     color: white;
     background-color: #1e252d;
-
+    scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
 
