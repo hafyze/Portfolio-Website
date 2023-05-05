@@ -1,6 +1,5 @@
 console.log("Hello World");
 
-scroll();
 
 function scroll(){
     var x = document.getElementById("myTopnav");
@@ -10,3 +9,5 @@ function scroll(){
             x.className = "topnav";
         }
 }
+
+scroll;
