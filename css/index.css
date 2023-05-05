@@ -106,7 +106,7 @@ div a{
 .project_image{
     margin: auto;
     display: block;
-    width: autog;
+    width: auto;
     max-width: 450px;
     height: auto;
     text-align: center;
@@ -123,6 +123,10 @@ div a{
         border-radius: 8px;
         background-color: #344353;
     } 
+    .project_image{
+        max-width: 300px;
+        
+    }
 }
 
 #drummachinePage{
