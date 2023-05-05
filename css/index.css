@@ -134,7 +134,11 @@ div a{
     width: 550px;
     max-width: fit-content;
 }
-
+@media screen and (max-width: 600px) {
+    #drummachinePage{
+        max-width: 300px;
+    }
+}
 .linkButton{
     display: flex;
     align-items: center;
