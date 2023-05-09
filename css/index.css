@@ -186,9 +186,18 @@ div a{
 }
 
 #dateline{
-    text-align: right;
+    text-align: left;
 }
 
 table{
     width: 100%;
+    text-align: center;
+}
+
+#title_edu{
+    font-weight: bold;
+}
+
+tr{
+    margin: 5px;
 }
