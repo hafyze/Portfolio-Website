@@ -180,3 +180,15 @@ div a{
       text-align: left;
     }
 }
+
+.education h2{
+    margin: 3px 10px;
+}
+
+#dateline{
+    text-align: right;
+}
+
+table{
+    width: 100%;
+}
