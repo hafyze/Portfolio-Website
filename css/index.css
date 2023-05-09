@@ -201,3 +201,15 @@ table{
 tr{
     margin: 5px;
 }
+
+#td_img{
+    max-width: 30px;
+}
+
+td{
+    max-width: 50px;
+}
+
+#mmu_logo{
+    width: 100%;
+}
