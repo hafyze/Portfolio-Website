@@ -8,3 +8,36 @@
 
     border-radius: 7px;
 }
+
+.education h2{
+    margin: 3px 10px;
+}
+
+#dateline{
+    text-align: left;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+#title_edu{
+    font-weight: bold;
+}
+
+tr{
+    margin: 5px;
+}
+
+#td_img{
+    mteax-:;
+}
+
+td{
+    max-width: 50px;
+}
+
+#mmu_logo{
+    width: 50%;
+}
