@@ -14,7 +14,7 @@
 }
 
 #dateline{
-    max-width: 200px;
+    max-width: 50px;;
 }
 
 table{
@@ -27,7 +27,7 @@ table{
 }
 
 tr{
-    margin: 5px;
+    margin: 15px;
 }
 
 #td_img{
@@ -37,6 +37,8 @@ tr{
 td{
     text-align: center;
     max-width: 50px;
+    border: 1px solid black;
+
 }
 
 #mmu_logo{
